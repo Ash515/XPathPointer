@@ -1,5 +1,5 @@
 # XPathPointer
 An UI based Xpath pointer
 
-## Developer(s)
+## Developer
 - Ashwin Kumar R
